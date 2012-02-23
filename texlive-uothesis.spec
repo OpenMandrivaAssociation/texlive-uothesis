@@ -1,12 +1,12 @@
-# revision 23485
+# revision 25355
 # category Package
 # catalog-ctan /macros/latex/contrib/uothesis
-# catalog-date 2011-07-20 11:02:46 +0200
+# catalog-date 2012-02-09 17:36:54 +0100
 # catalog-license lppl1.3
-# catalog-version 2.5.5
+# catalog-version 2.5.6
 Name:		texlive-uothesis
-Version:	2.5.5
-Release:	2
+Version:	2.5.6
+Release:	1
 Summary:	Class for dissertations and theses at the University of Oregon
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uothesis
