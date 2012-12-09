@@ -54,3 +54,20 @@ graduate school student manual.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Feb 23 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.5.6-1
++ Revision: 779704
+- Update to latest release.
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.5.5-2
++ Revision: 757322
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2.5.5-1
++ Revision: 719855
+- texlive-uothesis
+- texlive-uothesis
+- texlive-uothesis
+
