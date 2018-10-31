@@ -6,7 +6,7 @@
 # catalog-version 2.5.6
 Name:		texlive-uothesis
 Version:	2.5.6
-Release:	9
+Release:	10
 Summary:	Class for dissertations and theses at the University of Oregon
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uothesis
