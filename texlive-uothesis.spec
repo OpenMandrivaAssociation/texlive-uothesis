@@ -1,6 +1,6 @@
 Name:		texlive-uothesis
 Version:	25355
-Release:	1
+Release:	2
 Summary:	Class for dissertations and theses at the University of Oregon
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uothesis
