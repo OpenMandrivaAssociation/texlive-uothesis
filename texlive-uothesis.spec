@@ -3,7 +3,7 @@ Version:	25355
 Release:	2
 Summary:	Class for dissertations and theses at the University of Oregon
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uothesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uothesis
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uothesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uothesis.doc.r%{version}.tar.xz
